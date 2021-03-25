@@ -6,7 +6,7 @@
 <a href="https://tryhackme.com/p/lufe">
   <img align="left" width="30px" src="tryhackme.svg" />
 </a>  
-<a href="">
+<a href="https://app.hackthebox.eu/login">
   <img align="left" width="30px" src="hackthebox.svg" />
 </a>  
 <br>
