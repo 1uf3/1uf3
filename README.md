@@ -4,7 +4,7 @@
   <img align="left" width="21px" src="twitter.svg" />
 </a>
 <a href="https://tryhackme.com/p/lufe">
-  <img align="left" width"21px" src="tryhackme.svg" />
+  <img align="left" width="21px" src="tryhackme.svg" />
 </a>  
 <br>
 
