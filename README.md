@@ -1,8 +1,5 @@
 # lufe
 
-<a href="https://twitter.com/lufeRev">
-  <img align="left" width="30px" src="twitter.svg" />
-</a>
 <a href="https://tryhackme.com/p/lufe">
   <img align="left" width="30px" src="tryhackme.svg" />
 </a>  
