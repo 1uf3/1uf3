@@ -11,13 +11,13 @@
 ---
 
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lufeee&column=7"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lufeee&column=7&theme=onedark"/>
 </div>
 
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lufeee&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufeee&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lufeee&count_private=true&include_all_commits=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufeee&layout=compact&theme=onedark" />
 </div>
 
