@@ -11,7 +11,7 @@
 ---
 
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lufeee&column=7&theme=onedark"/>
+  <img width=500 src="https://github-profile-trophy.vercel.app/?username=lufeee&column=7&theme=onedark"/>
 </div>
 
 ---
