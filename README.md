@@ -1,7 +1,7 @@
 <h1 align="center">This is lufe's github Home</h1>
 
 <div align="center">
-  <!---- <img width="60px" src="img/lufe.svg"/> ---->
+  <img width="100px" src="https://github.com/lufeee/lufeee/blob/main/img/profile.png"/>
   <h3> My Website is <a href="https://lufe.jp">Here</a> 💕</h3> 
   <h2>Github Profile Trophy 🏆</h2>
   <img height="120" src="https://github-profile-trophy.vercel.app/?username=lufeee&theme=onedark&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy" />
