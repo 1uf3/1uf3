@@ -1,4 +1,4 @@
-<h1 align="center">�This is lufe's GitHub Home🌟</h1>
+<h1 align="center">This is lufe's GitHub Home🌟</h1>
 
 <div align="center">
   <img width="100px" src="https://github.com/lufeee/lufeee/blob/main/img/profile.png"/>
