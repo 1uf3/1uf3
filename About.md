@@ -38,7 +38,8 @@ Blog: https://lufe.hatenablog.jp
 	    - Dトラック
 - 2021/5 ~ 2022/3
 	- [NICT主催 SecHack365](https://sechack365.nict.go.jp/document/) に選抜 
-		- 表現駆動コース『willers』のチームリーダ
+		- 表現駆動コース『willers』のチームリーダー
+		- バックエンド、デザインを担当
 
 ## 由緒
 
@@ -49,13 +50,16 @@ Blog: https://lufe.hatenablog.jp
 	- Windows8でMinecraft Serverをポート開放して立てる。
 - 2020/04
 	- 立命館大学情報理工学部セキュリティ・ネットワークコースに入学
+	- サークル[RCC](http://www.rcc.ritsumei.ac.jp/), [RiST](https://risec.github.io/)に参加
+		- 2021年度のRiSTの団体長
+		- 2022年度のPJ団体の連合長
 	- 初めてプログラミングをする
 - 2020/10 ~ 2020/12
 	- [IPA 主催 セキュリティ・キャンプ全国大会](https://www.ipa.go.jp/jinzai/camp/index.html)に選抜
 		- Dトラックコース
 - 2021/07
 	- MINI Hardening Project #4.0に参加
-	- 防御面のセキュリティに興味を持ち始める
+		- 防御面のセキュリティに興味を持ち始める
 - 2021/08 ~ 2021/10
 	- [IPA 主催 セキュリティ・キャンプ全国大会](https://www.ipa.go.jp/jinzai/camp/index.html)にチューターとして選抜
 		- Dトラックコース
@@ -69,18 +73,20 @@ Blog: https://lufe.hatenablog.jp
 		- チーム『一生デブオプす』
 - 2021/05 ~ 2022/03
 	- [NICT 主催 SecHack365](https://sechack365.nict.go.jp/)に選抜
-		- 表現駆動コース『willers』のチームリーダ
+		- 表現駆動コース『willers』のチームリーダー
+		- バックエンド、デザイン案を担当
 			- 現在も作成中
 - 2021/07 ~ Present
 	- 脆弱性診断士としてアルバイト
 		- Webアプリケーション診断
 		- Androidアプリケーション診断
-- 2022/01
+- 2022/01 ~ 
 	- [CyberAgent 主催 CA Tech Accel]に選抜
 		- BackendチームででGolangを使用
-	- バックエンドエンジニアに興味を持ち始める
+		- バックエンドエンジニアに興味を持ち始める
 	- [eLearnSecurity eJPT Certification](eLearnSecurity https://elearnsecurity.com/product/ejpt-certification/)を取得
 		- 基本的なペネトレーションテストを習得
+- 2022/02
 	- [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/)1回目に挑戦
 		- インフラエンジニアに興味を持ち始める
 
@@ -88,6 +94,7 @@ Blog: https://lufe.hatenablog.jp
 
 - TypeScript
 - React / Next.js
+	- Portfolioを作成
 - Python2/3
 - Golang
 	- 静的解析
@@ -117,3 +124,4 @@ Blog: https://lufe.hatenablog.jp
 - GraphQL
 - Web Assembly
 - Rust
+
