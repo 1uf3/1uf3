@@ -31,16 +31,6 @@ Blog: https://lufe.hatenablog.jp
 - コンテナ(docker, kubernetes) 
 - Conoha Server(ポートフォワーディング用)
 
-## 実績など
-
-- 2020/10 ~ 2020/12
-	- [IPA 主催 セキュリティ・キャンプ全国大会](https://www.ipa.go.jp/jinzai/camp/index.html) に選抜
-	    - Dトラック
-- 2021/5 ~ 2022/3
-	- [NICT主催 SecHack365](https://sechack365.nict.go.jp/document/) に選抜 
-		- 表現駆動コース『willers』のチームリーダー
-		- バックエンド、デザインを担当
-
 ## 由緒
 
 - 2012/07
@@ -82,9 +72,9 @@ Blog: https://lufe.hatenablog.jp
 		- Androidアプリケーション診断
 - 2022/01 ~ 
 	- [CyberAgent 主催 CA Tech Accel]に選抜
-		- BackendチームででGolangを使用
+		- BackendチームでGolangを使用
 		- バックエンドエンジニアに興味を持ち始める
-	- [eLearnSecurity eJPT Certification](eLearnSecurity https://elearnsecurity.com/product/ejpt-certification/)を取得
+	- [eLearnSecurity eJPT Certification](https://elearnsecurity.com/product/ejpt-certification/)を取得
 		- 基本的なペネトレーションテストを習得
 - 2022/02
 	- [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/)1回目に挑戦
