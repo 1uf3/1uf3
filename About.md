@@ -1,7 +1,7 @@
 ## プロフィール
-Portfolio: https://lufe.jp 
-GitHub: https://github.com/lufeee 
-Blog: https://lufe.hatenablog.jp
+Portfolio: https://lufe.jp  
+GitHub: https://github.com/lufeee  
+Blog: https://lufe.hatenablog.jp  
 
 ## 興味のある技術分野
 
@@ -11,6 +11,8 @@ Blog: https://lufe.hatenablog.jp
 	- SOC
 - インフラ
 	- ルーティング技術や管理技術など
+- SRE
+	- パフォーマンスやログ管理など
 - バックエンド
 	- いろいろなツールをGoに置き換えること(rustがいいかもしれない)
 - フロントエンド 
@@ -70,12 +72,13 @@ Blog: https://lufe.hatenablog.jp
 	- 脆弱性診断士としてアルバイト
 		- Webアプリケーション診断
 		- Androidアプリケーション診断
-- 2022/01 ~ 
+- 2022/01
+	- [eLearnSecurity eJPT Certification](https://elearnsecurity.com/product/ejpt-certification/)を取得
+		- 基本的なペネトレーションテストを習得
+- 2022/01 ~ 2022/03
 	- [CyberAgent 主催 CA Tech Accel]に選抜
 		- BackendチームでGolangを使用
 		- バックエンドエンジニアに興味を持ち始める
-	- [eLearnSecurity eJPT Certification](https://elearnsecurity.com/product/ejpt-certification/)を取得
-		- 基本的なペネトレーションテストを習得
 - 2022/02
 	- [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/)1回目に挑戦
 		- インフラエンジニアに興味を持ち始める
