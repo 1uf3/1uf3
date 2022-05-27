@@ -30,7 +30,7 @@ Blog: https://lufe.hatenablog.jp
   - バックエンド 
 - 仮想環境(vagrant, virtualbox, vmware)
 	- 最近はvmwareを使ってる
-- コンテナ(docker, kubernetes) 
+- コンテナ(docker) 
 - Conoha Server(ポートフォワーディング用)
 
 ## 由緒
@@ -82,6 +82,8 @@ Blog: https://lufe.hatenablog.jp
 - 2022/02
 	- [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/)1回目に挑戦
 		- インフラエンジニアに興味を持ち始める
+- 2022/05
+	- wantedly 1day internshipに参加
 
 ## 触ったことがある技術
 
@@ -113,9 +115,11 @@ Blog: https://lufe.hatenablog.jp
 
 ## 今気になっている技術
 
-- AWSなどのクラウド技術
+- AWSなどのクラウド
+- でかいインフラ(Hadoop kubernetes)
 - gRPC
 - GraphQL
 - Web Assembly
 - Rust
-
+- ネットワーク
+	- eBPF
