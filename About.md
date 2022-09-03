@@ -84,6 +84,14 @@ Blog: https://lufe.hatenablog.jp
 		- インフラエンジニアに興味を持ち始める
 - 2022/05
 	- wantedly 1day internshipに参加
+- 2022/08
+	- wantedly 3week summer internshipに参加	
+- 2022/08
+	- pixiv 8day summer boot camp internshipに参加
+- 2022/09
+	- micro hardening 3day に参加
+- 2022/09
+	- DMM.comのGUILD internshipに参加   
 
 ## 触ったことがある技術
 
