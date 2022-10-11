@@ -44,7 +44,7 @@ Blog: https://lufe.hatenablog.jp
 	- 立命館大学情報理工学部セキュリティ・ネットワークコースに入学
 	- サークル[RCC](http://www.rcc.ritsumei.ac.jp/), [RiST](https://risec.github.io/)に参加
 		- 2021年度のRiSTの団体長
-		- 2022年度のPJ団体の連合長
+		- 2022年度前期のPJ団体の連合長
 	- 初めてプログラミングをする
 - 2020/10 ~ 2020/12
 	- [IPA 主催 セキュリティ・キャンプ全国大会](https://www.ipa.go.jp/jinzai/camp/index.html)に選抜
@@ -92,6 +92,8 @@ Blog: https://lufe.hatenablog.jp
 	- micro hardening 3day に参加
 - 2022/09
 	- DMM.comのGUILD internshipに参加   
+- 2022/10 ~
+	- 仮想化技術に関する研究
 
 ## 触ったことがある技術
 
@@ -99,15 +101,18 @@ Blog: https://lufe.hatenablog.jp
 - React / Next.js
 	- Portfolioを作成
 - Python2/3
+	- discordbot 
 - Golang
 	- 静的解析
 	- Web API作成(echo gin)
+	- discordbot
 - C/C++
 	- OS
 	- http server
 - Java8
 	- Minecraft Mod
 - Kotlin
+	- notification app
 - Git / Github
 	- 大学の授業や趣味、Hackathonで使用
 
