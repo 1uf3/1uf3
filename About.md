@@ -22,7 +22,7 @@ Blog: https://lufe.hatenablog.jp
 
 - OS
   - 普段使いはWindows11
-  - 開発は Manjaro Linux
+  - 開発は Arch Linux
   - 業務でMac
   - ペネトレーションテストの際はKali Linux (debian)
 - Go
@@ -92,6 +92,8 @@ Blog: https://lufe.hatenablog.jp
 	- micro hardening 3day に参加
 - 2022/09
 	- DMM.comのGUILD internshipに参加   
+- 2022/10 
+	- CODEBLUE2022 学生スタッフ
 - 2022/10 ~
 	- 仮想化技術に関する研究
 
@@ -136,3 +138,4 @@ Blog: https://lufe.hatenablog.jp
 - Rust
 - ネットワーク
 	- eBPF
+- Hypervisor 仮想技術
