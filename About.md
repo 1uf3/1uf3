@@ -67,7 +67,6 @@ Blog: https://lufe.hatenablog.jp
 	- [NICT 主催 SecHack365](https://sechack365.nict.go.jp/)に選抜
 		- 表現駆動コース『willers』のチームリーダー
 		- バックエンド、デザイン案を担当
-			- 現在も作成中
 - 2021/07 ~ 2022/07
 	- BlackBox脆弱性診断士としてアルバイト
 		- Webアプリケーション診断
@@ -112,34 +111,35 @@ Blog: https://lufe.hatenablog.jp
 	- 静的解析
 	- Web API作成(echo gin)
 	- discordbot
+ 	- インターン  
 - C/C++
 	- OS
 	- http server
+ 	- インターン 
 - Java8
 	- Minecraft Mod
 - Kotlin
 	- notification app
-- Git / Github
+- Git / Github 
 	- 大学の授業や趣味、Hackathonで使用
+ - Rust
+ 	- Yewを使ったBlog(作成中)
+ 	- インターン 
 
 
 ## なりたい職種
 
-- Securty Enginner
-	- 脆弱性診断士
-	- ペネトレーションテスター
-- インフラエンジニア
-- SRE
-- バックエンドエンジニア
+- Security Researcher
+- Securty Engineer
+	- Penetration Tester
+- Infra Engineer
+- Backend Engineer
 
 ## 今気になっている技術
 
 - AWSなどのクラウド
 - でかいインフラ(Hadoop kubernetes)
-- gRPC
 - GraphQL
-- Web Assembly
-- Rust
 - ネットワーク
 	- eBPF
 - Hypervisor 仮想技術
