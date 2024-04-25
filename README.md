@@ -4,7 +4,7 @@
   <img width="100px" src="https://github.com/1uf3/1uf3/blob/main/img/profile.png"/>
   <h3> My Website is <a href="https://lufe.jp">Here</a> 💕</h3> 
   <h2>Github Profile Trophy 🏆</h2>
-  <img height="120" src="https://github-profile-trophy.vercel.app/?username=1uf3&theme=onedark&margin-w=5&column=9)](https://github.com/ryo-ma/github-profile-trophy" />
+  <img height="120" src="https://github-profile-trophy.vercel.app/?username=1uf3&theme=onedark&margin-w=5&column=11)](https://github.com/ryo-ma/github-profile-trophy" />
   <h2>Statics📌</h2>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=1uf3&count_private=true&include_all_commits=true&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1uf3&layout=compact&theme=onedark" />
